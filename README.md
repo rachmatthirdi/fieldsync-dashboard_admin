@@ -1,16 +1,7 @@
-Tentu, ini adalah draf **README.md** yang sangat lengkap, profesional, dan mencakup semua fitur teknis yang telah kita bangun (Next.js, Supabase, Leaflet, DnD Kit, dan Trigger Database).
 
-Anda bisa menyalin kode di bawah ini dan menempelkannya ke file `README.md` di root project Anda.
-
----
-
-```markdown
 # 🚚 FieldSync - Logistics & Courier Management System
 
 **FieldSync** adalah platform manajemen logistik modern yang dirancang untuk memantau pengiriman jarak jauh (last-mile delivery). Aplikasi ini memungkinkan Admin (Dispatcher) untuk mengelola tugas pengiriman, memantau lokasi kurir secara real-time, dan mengatur rute pengiriman menggunakan antarmuka peta interaktif.
-
-![FieldSync Banner](https://via.placeholder.com/1200x400?text=FieldSync+Dashboard+Preview)
-*(Ganti link gambar di atas dengan screenshot aplikasi Anda nanti)*
 
 ## 🌟 Fitur Utama
 
@@ -231,23 +222,3 @@ src/
 ```
 
 ---
-
-## 🤝 Kontribusi
-
-Kontribusi sangat diterima! Silakan fork repository ini dan buat Pull Request untuk fitur baru atau perbaikan bug.
-
-1. Fork Project
-2. Buat Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit Perubahan (`git commit -m 'Add some AmazingFeature'`)
-4. Push ke Branch (`git push origin feature/AmazingFeature`)
-5. Buka Pull Request
-
----
-
-## 📄 Lisensi
-
-Didistribusikan di bawah Lisensi MIT. Lihat `LICENSE` untuk informasi lebih lanjut.
-
-```
-
-```
